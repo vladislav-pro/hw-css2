@@ -1,0 +1,47 @@
+.main{
+    background-color: #990909;
+    }
+.head{
+    text-align: center;
+}
+.pictere{
+    background-color: black;
+    display: block;
+    }
+*{
+    box-sizing: border-box;
+}
+.table{
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    }
+
+.aside{
+    background-color: #7d0909;
+    margin-top: 10px;
+    width: 200px;
+    height: 250px;
+    margin-right: auto;
+}
+.aside1{
+    color: coral;
+}
+.centre{
+    text-align: center;
+    width: 700px;
+    margin-left: 230px; 
+    color: #ffffff;   
+}
+.title{
+    background-color: #bdbdbd;
+    width: 250px;
+    margin-left: 1000px;
+}
+.title1{
+    background-color: #e3dddd;
+}
+.copy{
+    background-color: #e95b11;
+    text-align: center
+}
