@@ -17,10 +17,14 @@
     height: 20%;
     }
 
+.flex{
+    display: flex;
+}
+
 .aside{
     background-color: #7d0909;
     margin-top: 10px;
-    width: 200px;
+    width: 300px;
     height: 250px;
     margin-right: auto;
 }
@@ -35,7 +39,7 @@
 }
 .title{
     background-color: #bdbdbd;
-    width: 250px;
+    width: 300px;
     margin-left: 1000px;
 }
 .title1{
@@ -43,5 +47,6 @@
 }
 .copy{
     background-color: #e95b11;
-    text-align: center
+    text-align: center ;
+    color: #ffffff;
 }
